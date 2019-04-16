@@ -1,2 +1,7 @@
-# github-demo
-a simple demo repository to show git workflow
+# STarter Web Project
+
+##Introduction
+
+##Purpose
+
+##How to contribute
